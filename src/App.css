@@ -1,9 +1,12 @@
 .App {
   text-align: center;
-  margin-top: 150px;
+  margin-top: 200px;
   font-size: 25px;
 }
 
+.container {
+  margin-bottom: 250px;
+}
 ul {
   list-style: none;
 }
@@ -20,4 +23,9 @@ form {
 }
 #weatherdescription {
   text-transform: capitalize;
+}
+
+#githubLink {
+  text-align: center;
+  display: block;
 }
